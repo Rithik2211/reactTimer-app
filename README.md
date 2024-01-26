@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Hosted and see a Live Demo on : https://react-timer-application-117d49.netlify.app/
 
 ## Available Scripts
 
